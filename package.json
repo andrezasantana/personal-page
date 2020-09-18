@@ -1,0 +1,16 @@
+{
+  "name": "desafio-turma1-padawans",
+  "version": "1.0.0",
+  "description": "Blog Pessoal",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreza Santana",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "sass": "^1.26.10"
+  }
+}
