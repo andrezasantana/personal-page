@@ -50,3 +50,25 @@
     flex-direction: column;
     justify-content: center;
 }
+
+.text-carousel {
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 5px;
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 5px;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+    opacity: 0.7;
+    border-radius: 5px;
+}
+
