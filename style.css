@@ -5,13 +5,14 @@ body {
 .card-1 {
     width: 80%;
     margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 80px;
     font-size: 1.1rem;
 }
 
 @media(max-width:460px) {
     .card-1 {
         width: 100%;
+        margin: 10px;
     }
 }
 
@@ -23,17 +24,20 @@ body {
 @media(max-width:460px) {
     .card-2 {
         width: 100%;
+        margin: 10px;
     }
 }
 
 .card-3 {
     width: 80%;
     margin: 0 auto;
+    font-size: 1.1rem;
 }
 
 @media(max-width:460px) {
     .card-3 {
         width: 100%;
+        margin: 10px;
     }
 }
 
@@ -46,10 +50,12 @@ body {
 @media(max-width:460px) {
     .card-4 {
         width: 100%;
+        margin: 10px;
     }
 }
 
 .title-1 {
+    padding:20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
