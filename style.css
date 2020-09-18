@@ -26,6 +26,12 @@
     margin: 0 auto;
 }
 
+@media(max-width:460px) {
+    .card-3 {
+        width: 100%;
+    }
+}
+
 .card-4 {
     width: 80%;
     margin: 0 auto;
